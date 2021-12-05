@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Lending Club is one of the largest online marketplace for peer-to-peer lending. It provides an online platform to borrowers and lenders where they can transact smoothly and quickly. Lenders Club wants to conduct a study identifying the factors which contribute most to the defaults in loan payments. As a data analyst, we need to analyze the historical data and look for factors which leads to borrowers defaulting the loan.
+Lending Club is one of the largest online marketplace for peer-to-peer lending. It provides an online platform to borrowers and lenders where they can transact smoothly and quickly. Lenders Club wants to conduct a study identifying the factors which contribute most to the defaults in loan payments. As a data analyst, we need to analyze the historical data and look for factors which leads to borrowers defaulting the loan.
 
 
 ## Table of Contents

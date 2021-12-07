@@ -20,10 +20,12 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Small Business' have defaulted more. They are potential for higher interset rates and also proper due diligence
+- Reduce the high interest loans for 60 months tenure as they have high propensity for default
+- Higher interest rates should be charges to borrowers with debt-to-income ratio
+- Focused effort required to tap low experience customers
+- Focused effort required to tap customers with rented and mortgaged houses
+- More discretion and due diligence required while sanctioning loans to some states - CA, FL and NY
 
 ## Technologies Used
 - Python 3

@@ -3,7 +3,7 @@ Lending Club is one of the largest online marketplace for peer-to-peer lending. 
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
